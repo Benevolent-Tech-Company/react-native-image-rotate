@@ -1,6 +1,6 @@
 {
   "name": "react-native-image-rotate",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Rotate images from your react-native JavaScript code",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dgladkov/react-native-image-rotate.git"
+    "url": "git+https://github.com/Benevolent-Tech-Company/react-native-image-rotate.git"
   },
   "keywords": [
     "react-native",
